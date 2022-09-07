@@ -1,0 +1,21 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box
+}
+
+h1 {
+    font-family: devil breeze medium;
+    src: url("../Fuentes/Devil\ Breeze\ Medium.ttf");
+    text-align: center;
+}
+
+
+
+
+body {
+    background-image: url('https://www.metro951.com/wp-content/uploads/2017/10/Imagine-Dragons.png');
+
+
+
+}

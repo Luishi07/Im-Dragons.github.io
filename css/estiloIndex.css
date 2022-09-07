@@ -1,0 +1,62 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box
+}
+
+
+@font-face {
+    font-family: devil breeze medium;
+    src: url("../Fuentes/Devil\ Breeze\ Medium.ttf");
+
+}
+
+
+/**hearder**/
+
+
+body {
+    background-color: #bd516c;
+
+}
+
+
+h1 {
+    color: rgb(7, 7, 7);
+    font-family: "devil breeze medium";
+    font-size: xx-large;
+    text-align: center;
+
+}
+
+.navBar li {
+    
+    list-style-type: none;
+    display: inline;
+    margin: 0 20px 20px 0;
+    text-align: center;
+
+
+
+}
+
+
+
+
+
+
+div p {
+    background-color: red;
+
+}
+
+div ul {
+    background-color: #EB1D36;
+
+}
+
+.parrafo-remarcado {
+    font-weight: bolder;
+    color: black;
+    background-color: #CB8589;
+}

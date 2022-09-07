@@ -1,0 +1,33 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box
+}
+
+
+body {
+    background-color: #b86278;
+
+}
+
+h1 {
+    color: rgb(7, 7, 7);
+    font-family: "devil breeze medium";
+    font-size: xx-large;
+    text-align: center;
+
+}
+
+
+
+.subrayado {
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+.nombre-remarcado {
+    font-style: italic;
+    font-weight: bolder;
+
+}
